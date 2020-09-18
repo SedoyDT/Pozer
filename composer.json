@@ -1,0 +1,17 @@
+{
+    "name": "frolov/psr-4",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Tolya",
+            "email": "mgfrlv@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Package\\": "app/Package"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
